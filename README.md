@@ -1,12 +1,12 @@
 # partical-flower
-Partical flower is an interactive system for controlling TouchDesigner's real-time visuals with Arduino sensor data.
+Partical flower is an interactive system for controlling TouchDesigner's real-time visuals with Arduino sensor data.  
 The Arduino reads the data from the photoresistor and sends it to TouchDesigner through the serial port and TouchDesigner parses the data and maps it to the visual parameters.
 
 # hardware requirement
-Arduino
-Board: ESP32-C3 (It takes a long time to download the board of ESP32C3, so I would recommend Arduino Uno.)
-Component: LDR, 1kΩ Resistor
-Circuit diagram:
+Arduino  
+Board: ESP32-C3 (It takes a long time to download the board of ESP32C3, so I would recommend Arduino Uno.)  
+Component: LDR, 1kΩ Resistor  
+Circuit diagram:  
 ![image](https://github.com/ddyt0113/partical-flower/blob/main/particalflower-Lu%20Manman24063315g/arduino%20coding/circuit%20connection.png)
 ![image](https://github.com/ddyt0113/partical-flower/blob/main/particalflower-Lu%20Manman24063315g/arduino%20coding/circuit.jpg)
 
@@ -22,5 +22,5 @@ Circuit diagram:
 2. Configure serial communication (Serial DAT parameter).
 
 ## Instructions
-When we block the light source of the device, we can see the ever-changing image of the partical flower changing brightness with the brightness of the light.
+When we block the light source of the device, we can see the ever-changing image of the partical flower changing brightness with the brightness of the light.  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/62IV6MDD6aY/0.jpg)](https://www.youtube.com/watch?v=62IV6MDD6aY)
