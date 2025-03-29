@@ -23,4 +23,4 @@ Circuit diagram:
 
 ## Instructions
 When we block the light source of the device, we can see the ever-changing image of the partical flower changing brightness with the brightness of the light.
-![github video](https://github.com/ddyt0113/partical-flower/blob/main/particalflower-Lu%20Manman24063315g/arduino%20coding/mini.mp4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/62IV6MDD6aY/0.jpg)](https://www.youtube.com/watch?v=62IV6MDD6aY)
