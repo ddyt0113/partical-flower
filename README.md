@@ -24,3 +24,7 @@ Circuit diagram:
 ## Instructions
 When we block the light source of the device, we can see the ever-changing image of the partical flower changing brightness with the brightness of the light.  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/62IV6MDD6aY/0.jpg)](https://www.youtube.com/watch?v=62IV6MDD6aY)
+
+# Reference
+TD particle effect: https://youtu.be/hZRZqBKLoUg?si=_9qCw6D04CJJwu31
+Arduino to TouchDesigner: https://youtu.be/4dO7Q5oQbRg?si=wKDoHr3bzZdHKXm2
