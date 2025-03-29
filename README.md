@@ -10,13 +10,17 @@ Circuit diagram:
 ![image](https://github.com/ddyt0113/partical-flower/blob/main/particalflower-Lu%20Manman24063315g/arduino%20coding/circuit%20connection.png)
 ![image](https://github.com/ddyt0113/partical-flower/blob/main/particalflower-Lu%20Manman24063315g/arduino%20coding/circuit.jpg)
 
-## Installation and Configuration
-# Arduino Setup
+# Installation and Configuration
+## Arduino Setup
 1. Select board type, connect Arduino port (e.g. COM3)
 2. Upload code to Arduino.
 3. Configure the serial port baud rate (e.g. 115200).
 4. Close the serial monitor when it outputs data.
 
-# TouchDesigner Settings
+## TouchDesigner Settings
 1. Import project file (.toe or .tox).
 2. Configure serial communication (Serial DAT parameter).
+
+## Instructions
+When we block the light source of the device, we can see the ever-changing image of the partical flower changing brightness with the brightness of the light.
+![github video](https://github.com/ddyt0113/partical-flower/blob/main/particalflower-Lu%20Manman24063315g/arduino%20coding/mini.mp4)
